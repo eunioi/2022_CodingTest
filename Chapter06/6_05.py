@@ -20,4 +20,4 @@ def quick_sort(array):
 
     return quick_sort(left_side) + [pivot] + quick_sort(right_side)
 
-print(f"최종 결과 = {quick_sort(array)}")
+print(f"최종 결과 = {quick_sort(array)}") 
