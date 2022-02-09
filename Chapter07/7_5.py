@@ -39,5 +39,5 @@ for i in x :
     if result != None:
         print("yes", end = ' ')
     else:
-        print('no', end = ' ')
+        print('no', end = ' ') 
 
