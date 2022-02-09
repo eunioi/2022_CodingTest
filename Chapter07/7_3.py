@@ -24,4 +24,4 @@ result = binary_search(array, target, 0, n-1)
 if result == None:
     print("원소가 존재하지 않습니다.")
 else:
-    print(f"찾는 원소는 = {result + 1} 번째 있습니다.")
+    print(f"찾는 원소는 = {result + 1} 번째 있습니다.") 
