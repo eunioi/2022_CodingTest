@@ -5,3 +5,4 @@ array = [3, 5]
 array[0], array[1] = array[1], array[0]
 
 print(f"스와프 결과 = {array}")
+ 
