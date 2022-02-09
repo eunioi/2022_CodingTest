@@ -19,4 +19,4 @@ array = sorted(array, reverse = True)
 
 ## 정렬이 수행된 결과를 출력
 for i in array:
-    print(i, end= ' ')
+    print(i, end= ' ') 
