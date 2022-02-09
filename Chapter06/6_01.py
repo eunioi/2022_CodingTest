@@ -10,4 +10,4 @@ for i in range(len(array)):
     array[i], array[min_index] = array[min_index], array[i] ## 스와프
 
 
-print(f"최종 정렬 = \n{array}")
+print(f"최종 정렬 = \n{array}") 
