@@ -26,3 +26,4 @@ print(queue) ## 나중에 들어온 원소부터 출력
 # 프로그램 소스코드
 end_time = time.time() # 측정 종료
 print("time:", end_time - start_time) # 수행 시간 출력
+ 
