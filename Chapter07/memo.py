@@ -31,7 +31,7 @@ print(f"값이 [-1, 3] 범위에 있는 데이터 개수 출력 = {count_by_rang
 ## 이걸 선언으로 안하고 입력으로 받고싶다면
 print("데이터의 개수 N, 찾고자 하는 값 x 받기")
 n, x = map(int, input().split())
-print("전체 데이터 입력 받기")
+print("전체 데이터 입력 받기") 
 array = list(map(int, input().split()))
 
 ## 값이 [x, x] 범위에 있는 데이터의 개수 계싼
