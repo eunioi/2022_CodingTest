@@ -15,3 +15,4 @@ def setting(data):
 result = sorted(array, key = setting)
 print(f"최종 결과 : {result}")
 
+ 
