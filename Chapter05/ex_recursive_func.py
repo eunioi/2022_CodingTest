@@ -28,4 +28,4 @@ print(f"반복적으로 구현 : {factorial_iterative(5)}")
 print(f"재귀적으로 구현 : {factorial_recursive(5)}")
 # 프로그램 소스코드
 end_time = time.time() # 측정 종료
-print("time:", end_time - start_time) # 수행 시간 출력
+print("time:", end_time - start_time) # 수행 시간 출력 
