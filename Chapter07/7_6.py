@@ -20,7 +20,7 @@ x = list(map(int, input().split()))
 ## 손님이 확인 요청한 부품 번호를 하나씩 확인
 for i in x :
     ## 해당 부품이 존재하는지 확인
-    if array[i] == 1:
+    if array[i] == 1: 
         print('yes', end = ' ')
     else:
         print('no', end = ' ' )
