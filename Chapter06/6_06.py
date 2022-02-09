@@ -14,3 +14,4 @@ for i in range(len(count)): ## 리스트에 기록된 정렬 정보 확인
 
  
 
+ 
